@@ -72,7 +72,7 @@ The **Personal Finance Manager** is a web application designed to help users man
 #### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/finance-manager-app.git
+   git clone https://github.com/a-rahman-ali/finance-manager-app.git
    cd finance-manager-app
 2. **Install json-server:**
     ```bash
